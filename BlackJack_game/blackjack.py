@@ -4,7 +4,7 @@
 from time import *
 
 # BLACK JACK - CASINO
-# PYTHON CODE BASE
+# PYTHON CODE BASE TEST
 
 
 # master
